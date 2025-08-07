@@ -1,4 +1,4 @@
-**# Analytics_Dashboard**
+**# 📊Analytics_Dashboard**
 
 A modern, responsive, and visually appealing analytics dashboard built using **Next.js**, **TypeScript**, **Tailwind CSS**, and **Recharts**. It displays key business metrics and insights such as total revenue, user sessions, page views, and conversion rates with dynamic charts and date range selectors.
 
@@ -29,3 +29,13 @@ A modern, responsive, and visually appealing analytics dashboard built using **N
 - **Charts**: Recharts
 - **State Management**: useState, useEffect (React hooks)
 - **Deployment**: Netlify
+
+## 📚 Summary of Libraries Used
+
+- Library	Purpose
+- Next.js	React framework with routing and SSR
+- React	UI building and interactivity
+- TypeScript	Type safety and better developer experience
+- Tailwind CSS	Utility-first CSS framework
+- Recharts	Data visualization through charts
+- React Range	Timeline slider component
